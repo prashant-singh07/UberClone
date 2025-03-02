@@ -5,7 +5,6 @@ import {
   TouchableOpacityProps,
   View,
 } from 'react-native';
-import {Text} from 'react-native-gesture-handler';
 
 export interface CutsomTouchableProps extends TouchableOpacityProps {
   children?: React.ReactNode;

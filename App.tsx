@@ -19,7 +19,7 @@ import {
 import {SafeAreaProvider, SafeAreaView} from 'react-native-safe-area-context';
 import {Provider} from 'react-redux';
 import {store} from './src/store/store';
-import {COLOURS} from './src/assets/COLOURS';
+import {COLOURS} from './src/assets/theme';
 import {AppNavigation} from './src/navigation';
 import BootSplash from 'react-native-bootsplash';
 
